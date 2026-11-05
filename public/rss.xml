@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fringe Coding</title>
+    <link>https://fringecoding.com</link>
+    <description>Beyond the Ordinary. Into What's Possible. Independent technology publication founded by Brian Mutunga, written by Tuchii Hunnid.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fringecoding.com/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>AI Training Jobs: How to Evaluate Platforms, Tasks, and Payment Terms</title>
+      <link>https://fringecoding.com/article/ai-training-jobs-platform-evaluation</link>
+      <guid>https://fringecoding.com/article/ai-training-jobs-platform-evaluation</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>AI Training &amp; Data Labeling</category>
+      <description>A pragmatic framework for analyzing remote model-training gigs, qualification hurdles, and volatile compensation structures.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>Data Labeling Quality: Annotation Guidelines, Edge Cases, and Common Errors</title>
+      <link>https://fringecoding.com/article/data-labeling-quality-guidelines-edge-cases</link>
+      <guid>https://fringecoding.com/article/data-labeling-quality-guidelines-edge-cases</guid>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <category>AI Training &amp; Data Labeling</category>
+      <description>Mastering taxonomy disambiguation, hallucination flagging, and inter-annotator alignment in production training datasets.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>Building a Useful AI-Powered Web Application From Scratch</title>
+      <link>https://fringecoding.com/article/building-useful-ai-powered-web-app</link>
+      <guid>https://fringecoding.com/article/building-useful-ai-powered-web-app</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <description>From prompt contracts and structured JSON outputs to streaming UX and defensive rate limit mitigation.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>Cybersecurity Fundamentals for Independent Developers</title>
+      <link>https://fringecoding.com/article/cybersecurity-fundamentals-independent-developers</link>
+      <guid>https://fringecoding.com/article/cybersecurity-fundamentals-independent-developers</guid>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>Practical defense-in-depth: threat modeling, authentication pitfalls, CORS misconfigurations, and supply-chain hardening.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>Choosing AI Coding Assistants: A Practical Evaluation Framework</title>
+      <link>https://fringecoding.com/article/choosing-ai-coding-assistants-framework</link>
+      <guid>https://fringecoding.com/article/choosing-ai-coding-assistants-framework</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Benchmarking context retrieval, multi-file coherence, latency, and subscription economics for engineering teams.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>How to Launch a Technology Blog on a Limited Budget</title>
+      <link>https://fringecoding.com/article/launch-technology-blog-limited-budget</link>
+      <guid>https://fringecoding.com/article/launch-technology-blog-limited-budget</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Digital Income</category>
+      <description>Building a fast, static-first publication with zero recurring CMS costs, Git-driven workflows, and free-tier hosting.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>Affiliate Marketing for Beginners: Trust, Disclosure, and Sustainable Growth</title>
+      <link>https://fringecoding.com/article/affiliate-marketing-beginners-trust-disclosure</link>
+      <guid>https://fringecoding.com/article/affiliate-marketing-beginners-trust-disclosure</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Digital Income</category>
+      <description>Navigating FTC guidelines, maintaining reader trust, and selecting software affiliate programs that align with developer ethics.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>Software Reliability: Testing, Failure Handling, and Release Evidence</title>
+      <link>https://fringecoding.com/article/software-reliability-testing-failure-handling</link>
+      <guid>https://fringecoding.com/article/software-reliability-testing-failure-handling</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Software Engineering</category>
+      <description>Architecting resilient services: from hermetic unit tests and contract validation to graceful degradation and release proof.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>A Practical Guide to Technical SEO for New Websites</title>
+      <link>https://fringecoding.com/article/practical-guide-technical-seo-new-websites</link>
+      <guid>https://fringecoding.com/article/practical-guide-technical-seo-new-websites</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Emerging Technology</category>
+      <description>Core Web Vitals, JSON-LD structured data, clean canonicalization, and indexation strategy for modern web architectures.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+
+    <item>
+      <title>Building a Developer Portfolio That Demonstrates Real Skills</title>
+      <link>https://fringecoding.com/article/building-developer-portfolio-real-skills</link>
+      <guid>https://fringecoding.com/article/building-developer-portfolio-real-skills</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Software Engineering</category>
+      <description>Why generic clones get ignored and how deep engineering case studies demonstrate genuine problem-solving ability.</description>
+      <author>editorial@fringecoding.com (Tuchii Hunnid)</author>
+    </item>
+  </channel>
+</rss>

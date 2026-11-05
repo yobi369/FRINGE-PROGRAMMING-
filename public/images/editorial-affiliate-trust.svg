@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="trustBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080E1C"/>
+      <stop offset="100%" stop-color="#111B30"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#trustBg)"/>
+
+  <g transform="translate(180, 80)">
+    <!-- Ethical Monetization Protocol Card -->
+    <rect x="0" y="0" width="440" height="280" rx="8" fill="#131F37" stroke="#06B6D4" stroke-width="1.5"/>
+    
+    <!-- Trust Emblem -->
+    <circle cx="70" cy="60" r="30" fill="#0B132B" stroke="#8B5CF6" stroke-width="2"/>
+    <path d="M 60,60 L 68,68 L 82,52" stroke="#06B6D4" stroke-width="3" fill="none"/>
+
+    <text x="120" y="55" fill="#F8FAFC" font-family="sans-serif" font-weight="700" font-size="14">FTC 16 CFR PART 255 COMPLIANCE</text>
+    <text x="120" y="75" fill="#38BDF8" font-family="monospace" font-size="11">TRANSPARENT EDITORIAL DISCLOSURE</text>
+
+    <!-- Checklist items -->
+    <g transform="translate(40, 115)">
+      <rect x="0" y="0" width="360" height="34" rx="4" fill="#0E172A" stroke="#334155" stroke-width="1"/>
+      <text x="15" y="22" fill="#E2E8F0" font-family="monospace" font-size="11">✓ Visible proximity disclosure above fold</text>
+
+      <rect x="0" y="46" width="360" height="34" rx="4" fill="#0E172A" stroke="#334155" stroke-width="1"/>
+      <text x="15" y="68" fill="#E2E8F0" font-family="monospace" font-size="11">✓ rel="nofollow sponsored" SEO hygiene</text>
+
+      <rect x="0" y="92" width="360" height="34" rx="4" fill="#0E172A" stroke="#334155" stroke-width="1"/>
+      <text x="15" y="114" fill="#E2E8F0" font-family="monospace" font-size="11">✓ Mandatory listing of drawbacks &amp; cons</text>
+    </g>
+  </g>
+  <text x="700" y="420" fill="#475569" font-family="monospace" font-size="10" text-anchor="end">ETHICAL MONETIZATION &amp; DISCLOSURE</text>
+</svg>

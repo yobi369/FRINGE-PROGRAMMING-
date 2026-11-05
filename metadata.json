@@ -1,0 +1,6 @@
+{
+  "name": "Fringe Coding",
+  "description": "Independent technology publication exploring AI training, software engineering, cybersecurity, developer tools, and sustainable digital income. Founded by Brian Mutunga (By Tuchii Hunnid).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

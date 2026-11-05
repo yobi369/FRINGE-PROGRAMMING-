@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="portBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080E1C"/>
+      <stop offset="100%" stop-color="#111B33"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#portBg)"/>
+
+  <g transform="translate(130, 75)">
+    <!-- Case Study Card Frame -->
+    <rect x="0" y="0" width="540" height="280" rx="8" fill="#131F37" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="540" height="36" rx="8" fill="#1E293B"/>
+    <text x="25" y="23" fill="#38BDF8" font-family="monospace" font-size="12">ENGINEERING CASE STUDY SPECIFICATION</text>
+
+    <!-- Side-by-side comparison -->
+    <!-- Left: Flawed Clone -->
+    <rect x="25" y="55" width="230" height="200" rx="6" fill="#161F30" stroke="#EF4444" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="40" y="85" fill="#F87171" font-family="sans-serif" font-weight="700" font-size="12">TUTORIAL CLONE (IGNORED)</text>
+    <text x="40" y="115" fill="#94A3B8" font-family="monospace" font-size="10">✗ Netflix / Spotify replica</text>
+    <text x="40" y="140" fill="#94A3B8" font-family="monospace" font-size="10">✗ Zero trade-off analysis</text>
+    <text x="40" y="165" fill="#94A3B8" font-family="monospace" font-size="10">✗ Mock hardcoded JSON</text>
+    <text x="40" y="190" fill="#94A3B8" font-family="monospace" font-size="10">✗ Single "initial commit"</text>
+
+    <!-- Right: High-Impact Engineering -->
+    <rect x="285" y="55" width="230" height="200" rx="6" fill="#161F30" stroke="#06B6D4" stroke-width="1.5"/>
+    <text x="300" y="85" fill="#38BDF8" font-family="sans-serif" font-weight="700" font-size="12">PROOF OF WORK (HIRED)</text>
+    <text x="300" y="115" fill="#E2E8F0" font-family="monospace" font-size="10">✓ Real user pain point solved</text>
+    <text x="300" y="140" fill="#E2E8F0" font-family="monospace" font-size="10">✓ Architectural trade-off log</text>
+    <text x="300" y="165" fill="#E2E8F0" font-family="monospace" font-size="10">✓ Hardest bug root-caused</text>
+    <text x="300" y="190" fill="#E2E8F0" font-family="monospace" font-size="10">✓ Passing automated CI/CD</text>
+  </g>
+  <text x="700" y="420" fill="#475569" font-family="monospace" font-size="10" text-anchor="end">PROOF-OF-WORK PORTFOLIOS</text>
+</svg>
